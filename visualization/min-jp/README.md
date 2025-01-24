@@ -1,6 +1,6 @@
 # **디지털 채널 확장을 위한 연령대별 시각화 기획 전략**
 
-![image](https://github.com/user-attachments/assets/7bb3b502-c67f-4191-9f58-589857f569d4)
+![image](https://github.com/user-attachments/assets/fa81deff-30e1-4dc3-9acb-2db3b9b21f39)
 
 ### 1. **목표 정의**
 
