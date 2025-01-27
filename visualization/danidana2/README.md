@@ -1,7 +1,10 @@
 # 💳교육 소비 및 자녀 의무교육 데이터 기반 지역 맞춤형 카드사 비즈니스 전략 
+<br>
 
 ## 📚프로젝트 개요
 이 프로젝트는 **대용량 실데이터**를 이용해 자녀 교육과 관련된 소비 패턴을 분석하여, 주요 지역에서의 소비자 특성을 파악하고, 이를 바탕으로 마케팅 및 비즈니스 전략을 수립하는 것을 목표로 합니다. 주요 분석 요소는 **지역별 학원 소비 금액(합계 및 평균)** 과 **지역별 자녀 의무교육 중인 사용자 비율**을 중심으로, 각 지역의 교육 시장 특성과 고객 수요를 예측하는 것입니다. 이 분석을 통해 카드사는 각 지역에 맞춤형 혜택과 마케팅 전략을 제공하여, 고객의 카드 사용을 촉진하고 관련 소비를 활성화할 수 있습니다.
+
+<br>
 
 ## 🎯시나리오
 ### 목표🏁
@@ -96,9 +99,11 @@ SNS, 웹사이트 배너 등을 활용하여 지역별 맞춤형 카드 혜택�
 교육 관련 맞춤형 서비스를 제공함으로써 고객의 충성도를 높이고, 카드사에 대한 신뢰를 구축할 수 있습니다. <br>
 특히 자녀 교육에 대한 수요가 높은 고객층을 타겟팅하여, 고객과의 장기적인 관계를 형성할 수 있습니다.
 
+<br>
+
 ## 🔧활용 기술
 | **카테고리**   | **활용 기술**   |
 |--------------|-------------|
-| **개발 환경**           | ![VirtualBox](https://img.shields.io/badge/VirtualBox-%23006EFF.svg?style=flat-square&logo=VirtualBox&logoColor=white) <br> ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white) | 
-|  **데이터 분석 및 시각화** | ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) <br> ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white) | 
+| **개발 환경**           | ![VirtualBox](https://img.shields.io/badge/VirtualBox-%23006EFF.svg?style=flat-square&logo=VirtualBox&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white) | 
+|  **데이터 분석 및 시각화** | ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white) | 
 | **접속 및 관리**         | ![MobaXterm](https://img.shields.io/badge/MobaXterm-%23008AFF.svg?style=flat-square&logo=mobaXterm&logoColor=white)                                                 | 
