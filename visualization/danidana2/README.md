@@ -14,12 +14,15 @@
 ### 데이터 분석 및 시각화🔍
 1. **지역별 학원 소비 금액 (합계 및 평균)** <br>
 지역별 학원 소비 금액(합계 및 평균)을 분석하여 학원 소비가 많은 지역을 파악합니다. 이 데이터는 학원 관련 소비가 높은 지역을 선별하고, 카드사의 혜택을 적용할 수 있는 잠재적 지역을 도출하는 데 사용됩니다. <br><br>
-![Image](https://github.com/user-attachments/assets/f70058f5-732e-409d-8c39-e0625806e1ed) <br>
-![Image](https://github.com/user-attachments/assets/26f63f27-af26-44a7-a66d-bad71243213b)
+   <div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/user-attachments/assets/2d3b37da-d0e3-47a1-8ec3-b8380115a55d" alt="Image 1" style="width: 49%;"/>
+    <img src="https://github.com/user-attachments/assets/ba52af2c-bd32-49a1-bfb8-afa0bab183e4" alt="Image 2" style="width: 49%;"/> 
+   </div>
+<br>
 
 2. **지역별 자녀 의무교육 중인 사용자 비율** <br>
 2022년 4분기 데이터를 기준으로 지역별 자녀가 의무교육을 받고 있는 사용자의 비율을 분석하여, 전체 지역에서 각 지역이 차지하는 자녀 의무교육 사용자의 비율을 파악합니다. 이를 통해 교육 수요가 높은 지역을 식별하고, 입시 관련 소비가 클 가능성이 높은 지역을 예측할 수 있습니다. <br><br>
-![Image](https://github.com/user-attachments/assets/bf1783b3-de16-4337-a0d8-f7499f925057)
+![Image](https://github.com/user-attachments/assets/fa0e7c32-a994-4fe4-a03c-c720e339b961)
 
 ### 인사이트💡
 1. **학원 소비 금액이 높은 지역 분석** <br>
