@@ -13,7 +13,7 @@ ElasticSearch와 Kibana 설치는 프로젝트의 시작점입니다. 아래 링
 
 | **사용자** | **설치 과정 링크** |
 | --- | --- |
-| 김대연 | [링크]() |
+| 김대연 | [링크](https://github.com/dyoun12/ELK_on_linux) |
 | 민정인 | [링크](https://github.com/min-jp/virtualbox-elasticsearch-kibana) |
 | 어태규 | [링크](https://github.com/EOTAEGYU/Card_data_analysis) |
 | 최다영 | [링크]() |
@@ -36,7 +36,7 @@ ElasticSearch와 Kibana 설치는 프로젝트의 시작점입니다. 아래 링
 
 | **창업가** | **주제** | **시각화 자료** |
 | --- | --- | --- |
-| 김대연 |  | [링크]() |
+| 김대연 |  | [링크](https://github.com/weAreFoodie/elk-learning-in-linux/tree/main/visualization/dyoun12) |
 | 민정인 | 카드 산업 디지털 신사업 전략 | [링크](https://github.com/weAreFoodie/elk-learning-in-linux/tree/main/visualization/min-jp) |
 | 어태규 | 20대 카드 소비 내역 분석 | [링크](https://github.com/weAreFoodie/elk-learning-in-linux/tree/main/visualization/EOTAEGYU) |
 | 최다영 |  | [링크]() |
