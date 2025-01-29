@@ -36,7 +36,7 @@ ElasticSearch와 Kibana 설치는 프로젝트의 시작점입니다. 아래 링
 
 | **창업가** | **주제** | **시각화 자료** |
 | --- | --- | --- |
-| 김대연 |  | [링크](https://github.com/weAreFoodie/elk-learning-in-linux/tree/main/visualization/dyoun12) |
+| 김대연 | 나이대 별 보험료 및 의료비용에 따른 보험 상품 개발 전략 | [링크](https://github.com/weAreFoodie/elk-learning-in-linux/tree/main/visualization/dyoun12) |
 | 민정인 | 카드 산업 디지털 신사업 전략 | [링크](https://github.com/weAreFoodie/elk-learning-in-linux/tree/main/visualization/min-jp) |
 | 어태규 | 20대 카드 소비 내역 분석 | [링크](https://github.com/weAreFoodie/elk-learning-in-linux/tree/main/visualization/EOTAEGYU) |
 | 최다영 | 교육 소비 및 자녀 의무교육 데이터 기반 지역 맞춤형 카드사 비즈니스 전략 | [링크](https://github.com/weAreFoodie/elk-learning-in-linux/tree/main/visualization/danidana2) |
